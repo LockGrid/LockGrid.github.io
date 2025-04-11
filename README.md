@@ -45,7 +45,7 @@ An interactive training module covering phishing, password hygiene, safe browsin
 <a href="https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/">
   <img src="https://images.credly.com/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" alt="GIAC Foundational Cybersecurity Technologies (GFACT)" width="100"/>
 </a>
-<a href="https://cybersecurecatalyst.ca/">
+<a href="https://cybersecurecatalyst.ca/clic/">
   <img src="https://cybersecurecatalyst.ca/wp-content/uploads/2023/03/CLIC-Badge_Transparent-1.webp" alt="Rogers Cybersecure Catalyst — Leadership in Cybersecurity" width="100"/>
 </a>
 
