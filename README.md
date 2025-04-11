@@ -1,11 +1,6 @@
-![Cybersecurity Banner](https://github.com/your-username/your-repository-name/blob/main/path/to/your-image.png)
-
 # 👋 Hello,
 
-Aspiring cybersecurity professional transitioning from sales management.  
-Future Cybersecurity Specialist — passionate about protecting systems, analyzing threats, and contributing to a safer digital world.  
-I’m focused on developing hands-on skills in Security Operations, Incident Response, Cloud Security, and Risk Management.  
-Currently expanding my experience with real-world tools and frameworks to build secure environments.
+Aspiring cybersecurity professional transitioning from sales management. Passionate about protecting systems, analyzing threats, and contributing to a safer digital world. I’m focused on developing hands-on skills in Security Operations, Incident Response, Cloud Security, and Risk Management. Currently expanding my experience with real-world tools and frameworks to build secure environments.
 
 ## 🔍 About Me
 
@@ -19,38 +14,45 @@ Currently expanding my experience with real-world tools and frameworks to build 
 
 ## 🧬 Projects
 
-### [Cloud Security Lab](https://github.com/your-username/cloud-security-lab)
+### [Cloud Security Lab](link)
 A simulated AWS environment to detect and mitigate cloud misconfigurations and enforce security best practices.
 
-### [Virtual Network Lab](https://github.com/your-username/virtual-network-lab)
+### [Virtual Network Lab](link)
 A virtual enterprise network built with VMware and GNS3, featuring firewalls, IDS/IPS, and vulnerability assessments.
 
-### [Phishing Detection and Response](https://github.com/your-username/phishing-detection-response)
+### [Phishing Detection and Response](link)
 A phishing detection system integrating SIEM (Splunk) and email security protocols (SPF, DKIM, DMARC) for real-time threat mitigation.
 
-### [Malware Analysis Lab](https://github.com/your-username/malware-analysis-lab)
+### [Malware Analysis Lab](link)
 A lab environment utilizing YARA rules and sandboxing to analyze malware behaviour and signatures.
 
-### [Incident Response: Ransomware Attack](https://github.com/your-username/incident-response-ransomware)
+### [Incident Response: Ransomware Attack](link)
 A simulated ransomware attack scenario demonstrating forensic analysis, containment strategies, and incident reporting.
 
-### [GRC Playbooks](https://github.com/your-username/grc-playbooks)
+### [GRC Playbooks](link)
 Standardized incident response playbooks aligned with ISO 27001 and NIST frameworks.
 
-### [Security Awareness Training](https://github.com/your-username/security-awareness-training)
+### [Security Awareness Training](link)
 An interactive training module covering phishing, password hygiene, safe browsing, and incident reporting for non-technical users.
 
 ---
 
-## 🏅 Certifications & Learning
+## 🏅 Certifications 
 
-- GIAC Security Essentials (GSEC) 
-- GIAC Foundational Cybersecurity Technologies (GFACT) 
-- Rogers Cybersecure Catalyst — Leadership in Cybersecurity 
+<a href="link">
+  <img src="https://images.credly.com/images/8e6bde54-8a33-4ec0-9d70-90fcde581bcf/image.png" alt="GIAC Security Essentials (GSEC)" width="100"/>
+</a>
+<a href="link">
+  <img src="https://images.credly.com/images/2d9b3293-9295-4ac3-a326-1bb7013225a4/image.png" alt="GIAC Foundational Cybersecurity Technologies (GFACT)" width="100"/>
+</a>
+<a href="link">
+  <img src="https://cybersecurecatalyst.ca/wp-content/uploads/2023/03/CLIC-Badge_Transparent-1.webp" alt="Rogers Cybersecure Catalyst — Leadership in Cybersecurity" width="100"/>
+</a>
+
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools 
 
 | Task | Tools / Technologies |
 |---------------------------------------|-----------------------------------------------|
@@ -66,35 +68,31 @@ An interactive training module covering phishing, password hygiene, safe browsin
 | **System Hardening** | AppArmor, SELinux |
 
 ---
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rozacalloway)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rozacalloway@gmail.com)
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=LockGrid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LockGrid&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true)
+![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LockGrid&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=LockGrid&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🌐 Profile Views
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-github-username.your-github-username)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LockGrid.LockGrid)
 
 ---
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[GitHub](https://github.com/your-username)
-
-![Snake animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
 
 *“Cybersecurity is not a destination, it's a journey — and I’m excited for the road ahead!”*
