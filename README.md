@@ -11,29 +11,12 @@ Aspiring cybersecurity professional transitioning from sales management. Passion
 - 🚀 Building my own lab environment for hands-on practice
 - 🌱 Continuously learning and sharing my cybersecurity journey
 - 🌟 Open to collaboration, learning opportunities, and contributing to security projects
+---
+## 🎯 TryHackMe – SOC Level 1 Path (In Progress)
 
-## 🧬 Projects
+Currently progressing through the SOC Level 1 learning path to build core defensive security skills. I’m building hands-on skills in threat detection, log analysis, SIEM tools, and security monitoring.
 
-### [Cloud Security Lab](link)
-A simulated AWS environment to detect and mitigate cloud misconfigurations and enforce security best practices.
-
-### [Virtual Network Lab](link)
-A virtual enterprise network built with VMware and GNS3, featuring firewalls, IDS/IPS, and vulnerability assessments.
-
-### [Phishing Detection and Response](link)
-A phishing detection system integrating SIEM (Splunk) and email security protocols (SPF, DKIM, DMARC) for real-time threat mitigation.
-
-### [Malware Analysis Lab](link)
-A lab environment utilizing YARA rules and sandboxing to analyze malware behaviour and signatures.
-
-### [Incident Response: Ransomware Attack](link)
-A simulated ransomware attack scenario demonstrating forensic analysis, containment strategies, and incident reporting.
-
-### [GRC Playbooks](link)
-Standardized incident response playbooks aligned with ISO 27001 and NIST frameworks.
-
-### [Security Awareness Training](link)
-An interactive training module covering phishing, password hygiene, safe browsing, and incident reporting for non-technical users.
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/r0s333.png)](https://tryhackme.com/p/r0s333)
 
 ---
 
