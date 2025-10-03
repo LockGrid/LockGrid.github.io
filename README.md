@@ -1,22 +1,38 @@
-# 👋 Hello,
+## Hello,
 
-Aspiring cybersecurity professional transitioning from sales management. Passionate about protecting systems, analyzing threats, and contributing to a safer digital world. I’m focused on developing hands-on skills in Security Operations, Incident Response, Cloud Security, and Risk Management. Currently expanding my experience with real-world tools and frameworks to build secure environments.
+I'm an aspiring cybersecurity professional transitioning from a background in sales management, bringing strong communication, analytical thinking, and problem-solving skills to the digital security space.
 
-## 🔍 About Me
+My focus is on Governance, Risk, and Compliance (GRC) — helping organizations identify, assess, and manage cyber risk while aligning with frameworks and regulatory standards. I'm currently developing hands-on skills with frameworks like NIST CSF, ISO/IEC 27001, and CIS Controls, and building a portfolio of risk assessments, policy documentation, and compliance processes.
 
-- 🌐 Transitioning into **Cybersecurity**
-- 🔒 Exploring multiple domains: Security Operations, Cloud Security, Threat Detection & Response
-- 🛡️ Focused on network security, threat detection, and incident response (GSEC certified)
-- 📊 Foundational cybersecurity technologies, security frameworks, and compliance (GFACT certified)
-- 🚀 Building my own lab environment for hands-on practice
-- 🌱 Continuously learning and sharing my cybersecurity journey
-- 🌟 Open to collaboration, learning opportunities, and contributing to security projects
+My goal is to contribute to secure and resilient operations through practical, business-aligned cybersecurity governance.
+
 ---
-## 🎯 TryHackMe – SOC Level 1 Path (In Progress)
 
-Currently progressing through the SOC Level 1 learning path to build core defensive security skills. I’m building hands-on skills in threat detection, log analysis, SIEM tools, and security monitoring.
+## GRC Portfolio in Progress
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/r0s333.png)](https://tryhackme.com/p/r0s333)
+Risk assessments based on NIST CSF and ISO/IEC 27001
+
+Control mapping and gap analysis
+
+Sample security policies and compliance documents
+
+Research into industry-specific regulations (e.g., NERC-CIP for critical infrastructure)
+
+All projects are created for educational purposes and based on public frameworks and simulated scenarios.
+
+---
+
+## Tools & Frameworks
+
+| Task                                     | Tools / Technologies                                                          |
+| ---------------------------------------- | ----------------------------------------------------------------------------- |
+| Conducting mock risk assessments         | NIST CSF, CIS Controls, Risk Register (Excel), FAIR (intro level)             |
+| Developing cybersecurity policies        | ISO/IEC 27001, SANS Policy Templates, Markdown, Word                          |
+| Control mapping & gap analysis           | NIST CSF, CIS v8, ISO 27001, Excel                                            |
+| Tracking compliance activities           | Google Sheets, Excel, custom GRC templates                                    |
+| Researching frameworks & regulations     | NIST SP 800-53/800-82, NERC-CIP, ISO 27001                                    |
+| Documentation & reporting                | Google Docs, Word, Markdown, Lucidchart                                       |
+| Exploring GRC tools (demo/simulated use) | ServiceNow GRC (videos/demos), RSA Archer (overview), AuditBoard (conceptual) |
 
 ---
 
@@ -35,23 +51,14 @@ Currently progressing through the SOC Level 1 learning path to build core defens
 
 ---
 
-## 🛠️ Tools 
+## Learning Lab – TryHackMe (In Progress)
 
-| Task | Tools / Technologies |
-|---------------------------------------|-----------------------------------------------|
-| **SIEM Monitoring & Log Analysis** | Splunk |
-| **Network Traffic Analysis** | Wireshark, Zeek, Nmap |
-| **IDS/IPS** | Snort |
-| **Endpoint Protection & EDR Tools** | CrowdStrike, SentinelOne |
-| **Malware Analysis & Threat Hunting** | Wireshark, Zeek, Splunk |
-| **Vulnerability Scanning** | Nessus, Qualys, ScoutSuite |
-| **Patch Management** | WSUS, Yum, APT |
-| **Cloud Configuration Monitoring** | AWS CloudTrail, AWS Config |
-| **IAM & Access Management** | AWS IAM |
-| **System Hardening** | AppArmor, SELinux |
+While my focus is GRC, I believe understanding technical environments improves risk decision-making. I’m currently completing the SOC Level 1 Path on TryHackMe to gain foundational knowledge in threat detection, log analysis, and security operations.
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/r0s333.png)](https://tryhackme.com/p/r0s333)
 
 ---
-## 🌐 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rozacalloway)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rozacalloway@gmail.com)
