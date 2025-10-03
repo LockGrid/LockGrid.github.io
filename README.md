@@ -34,9 +34,8 @@ My goal is to contribute to secure and resilient operations through practical, b
    A privacy impact assessment for a fictional system handling sensitive personal data. Documents data processing activities, associated risks, and recommended mitigations.
    Demonstrates privacy risk awareness and compliance alignment (GDPR/CCPA).
 
-7. [**GRC Controls Library**](./portfolio/Controls%20Library%20Spreadsheet.md)
-   A spreadsheet-based controls repository aggregating key security controls from multiple frameworks (NIST, ISO, CIS). Categorized by control objective, implementation notes, and business process relevance.
-   Provides a reusable reference for control mapping and audits.
+7. [**GRC Controls Library**](./portfolio/GRC%20Controls%20Library.md)
+   A spreadsheet-based controls repository aggregating key security controls from multiple frameworks (NIST, ISO, CIS). Categorized by control objective, implementation notes, and business process relevance. Provides a reusable reference for control mapping and audits.
 
 8. [**GRC Case Study & Incident Scenario**](./portfolio/GRC%20Case%20Study%20Writeup.md)
    A fictional scenario inspired by real-world security events. Includes incident summary, risk implications, and policy/control updates.
