@@ -9,49 +9,76 @@ My goal is to contribute to secure and resilient operations through practical, b
 ---
 
 ## Portfolio in Progress
+---
 
-1. [**NIST CSF Risk Assessment**](./portfolio/NIST%20CSF-Based%20Risk%20Assessment.md)
-   A mock cybersecurity risk assessment based on the NIST Cybersecurity Framework. Includes a defined scope, risk register, impact analysis, and mitigation plan for a fictional organization.
-   Demonstrates structured risk evaluation and control recommendation skills.
+## 🔹 Risk Management
 
-2. [**Cybersecurity Policy Suite**](./portfolio/Cybersecurity%20Policy%20Suite.md)
-   A set of customized cybersecurity policies based on SANS templates, tailored for a fictional company. Includes policies such as Acceptable Use, Incident Response, and Access Control.
-   Emphasizes clarity, enforceability, and alignment with best practices.
+### 1. [**NIST CSF Risk Assessment**](./portfolio/NIST%20CSF-Based%20Risk%20Assessment.md)
 
-3. [**Control Mapping Exercise**](./portfolio/Control%20Mapping%20Exercise.md)
-   A control mapping project aligning security controls from a chosen framework (e.g., NIST 800-53 or ISO 27001) to fictional business processes. Includes a detailed mapping table, gap analysis, and remediation recommendations.
-   Demonstrates control identification and audit readiness.
+A mock risk assessment using the NIST Cybersecurity Framework. Includes scope, risk register, impact analysis, and mitigation planning.
+→ Demonstrates risk analysis, prioritization, and control recommendation skills.
 
-4. [**Compliance Checklist & Simulated Audit Report**](./portfolio/Compliance%20Checklist%20%26%20Simulated%20Audit%20Report.md)
-   A sample compliance readiness checklist (e.g., SOC 2 or ISO 27001) with implementation status, evidence tracking, and control references. Includes a mock executive audit summary.
-   Highlights documentation and compliance tracking capabilities.
+### 9. [**Third-Party Risk Assessment – Vendor Review**](./portfolio/Third-Party%20Risk%20Assessment%20–%20Vendor%20Review.md)
 
-5. [**Business Continuity Plan (BCP)**](./portfolio/Business%20Continuity%20Plan%20%28BCP%29.md)
-   A fictional BCP for managing critical business functions during a cyber or operational disruption. Includes RTO/RPO definitions, recovery strategies, and communication plans.
-   Showcases operational resilience and continuity planning.
+Evaluates a fictional third-party vendor's risk profile, including data sharing, risk ratings, required controls, and treatment plan.
+→ Shows TPRM proficiency aligned with SIG Lite and NIST SP 800-161.
 
-6. [**Privacy Impact Assessment (PIA)**](./portfolio/Privacy%20Impact%20Assessment%20%28PIA%29.md)
-   A privacy impact assessment for a fictional system handling sensitive personal data. Documents data processing activities, associated risks, and recommended mitigations.
-   Demonstrates privacy risk awareness and compliance alignment (GDPR/CCPA).
+---
 
-7. [**GRC Controls Library**](./portfolio/GRC%20Controls%20Library.md)
-   A spreadsheet-based controls repository aggregating key security controls from multiple frameworks (NIST, ISO, CIS). Categorized by control objective, implementation notes, and business process relevance. Provides a reusable reference for control mapping and audits.
+## 🔹 Compliance & Controls
 
-8. [**GRC Case Study & Incident Scenario**](./portfolio/GRC%20Case%20Study%20Writeup.md)
-   A fictional scenario inspired by real-world security events. Includes incident summary, risk implications, and policy/control updates.
-   Designed to show industry awareness and the ability to respond to evolving threats from a GRC perspective.
+### 2. [**Cybersecurity Policy Suite**](./portfolio/Cybersecurity%20Policy%20Suite.md)
 
-9. [**Third-Party Risk Assessment – Vendor Review**](./portfolio/Third-Party%20Risk%20Assessment%20–%20Vendor%20Review.md)
-   A mock third-party risk assessment of a fictional vendor. Includes vendor profile, data shared, risk ratings (inherent/residual), required controls, and treatment plan.
-   Demonstrates vendor due diligence and third-party risk management aligned with frameworks like SIG Lite and NIST SP 800-161.
+A set of policies (Acceptable Use, Access Control, Incident Response) based on SANS templates, tailored for a fictional company.
+→ Highlights enforceable policy writing aligned with security frameworks.
 
-10. [**GRC Metrics & Dashboards**](./portfolio/GRC%20Metrics%20%26%20Dashboards.md)
-    A sample GRC performance dashboard displaying KPIs such as policy updates, control coverage, and risk status. Includes visual metrics designed for executive reporting.
-    Highlights data-driven decision-making and GRC performance monitoring.
+### 3. [**Control Mapping Exercise**](./portfolio/Control%20Mapping%20Exercise.md)
 
-11. [**GRC Governance Overview**](./portfolio/GRC%20Governance%20Overview.md)
-    An overview of a fictional organization’s GRC structure, including roles/responsibilities (e.g., CISO, Risk Officer), governance committees, and policy lifecycle flow.
-    Demonstrates understanding of GRC program governance and strategic alignment.
+Maps NIST or ISO controls to business processes. Includes implementation status, ownership, and gap remediation.
+→ Demonstrates control identification and audit-readiness.
+
+### 4. [**Compliance Checklist & Simulated Audit Report**](./portfolio/Compliance%20Checklist%20%26%20Simulated%20Audit%20Report.md)
+
+Sample SOC 2/ISO 27001 compliance checklist with evidence tracking and executive audit summary.
+→ Shows practical compliance tracking and audit prep.
+
+### 7. [**GRC Controls Library**](./portfolio/GRC%20Controls%20Library.md)
+
+A reference spreadsheet of key controls across NIST, ISO, and CIS frameworks. Categorized by objective, process, and implementation notes.
+→ Useful for control mapping and audit readiness.
+
+---
+
+## 🔹 Governance & Strategy
+
+### 5. [**Business Continuity Plan (BCP)**](./portfolio/Business%20Continuity%20Plan%20%28BCP%29.md)
+
+A fictional plan for maintaining operations during a major disruption. Includes critical process analysis, recovery strategy, and communication plan.
+→ Demonstrates continuity planning and resilience strategy.
+
+### 6. [**Privacy Impact Assessment (PIA)**](./portfolio/Privacy%20Impact%20Assessment%20%28PIA%29.md)
+
+Assesses privacy risks for a system handling sensitive data, with mitigations aligned to GDPR/CCPA.
+→ Reflects understanding of data protection and regulatory compliance.
+
+### 11. [**GRC Governance Overview**](./portfolio/GRC%20Governance%20Overview.md)
+
+Outlines a fictional GRC program's structure, key roles (e.g., CISO, Privacy Officer), and policy lifecycle.
+→ Demonstrates strategic oversight and GRC integration.
+
+---
+
+## 🔹 Supporting Materials
+
+### 8. [**GRC Case Study & Incident Scenario**](./portfolio/GRC%20Case%20Study%20Writeup.md)
+
+A fictional incident response scenario based on a real-world breach. Includes lessons learned and control improvements.
+→ Showcases awareness of GRC implications in security events.
+
+### 10. [**GRC Metrics & Dashboards**](./portfolio/GRC%20Metrics%20%26%20Dashboards.md)
+
+Sample dashboard with visual KPIs like risk closure rate, policy reviews, and control coverage.
+→ Highlights ability to report and communicate GRC performance to leadership.
 
 ---
 
