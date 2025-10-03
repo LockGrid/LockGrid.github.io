@@ -10,26 +10,38 @@ My goal is to contribute to secure and resilient operations through practical, b
 
 ## Portfolio in Progress
 
-1. NIST CSF Risk Assessment
+1. [**NIST CSF Risk Assessment**](./portfolio/NIST%20CSF-Based%20Risk%20Assessment.md)
    A mock cybersecurity risk assessment based on the NIST Cybersecurity Framework. Includes a defined scope, risk register, impact analysis, and mitigation plan for a fictional organization.
    Demonstrates structured risk evaluation and control recommendation skills.
-2. Cybersecurity Policy Suite
-  A set of customized cybersecurity policies based on SANS templates, tailored for a fictional company. Includes policies such as Acceptable Use, Incident Response, and Access Control.
-  Emphasizes clarity, enforceability, and alignment with best practices.
-3. Control Mapping Exercise
-  A control mapping project aligning security controls from a chosen framework (e.g., NIST 800-53 or ISO 27001) to fictional business processes. Includes a detailed mapping table, gap analysis, and        remediation recommendations. Demonstrates control identification and audit readiness.
-4. Compliance Checklist & Simulated Audit Report
-  A sample compliance readiness checklist (e.g., SOC 2 or ISO 27001) with implementation status, evidence tracking, and control references. Includes a mock executive audit summary.
-  Highlights documentation and compliance tracking capabilities.
-5. Business Continuity Plan (BCP)
+
+2. [**Cybersecurity Policy Suite**](./portfolio/Cybersecurity%20Policy%20Suite.md)
+   A set of customized cybersecurity policies based on SANS templates, tailored for a fictional company. Includes policies such as Acceptable Use, Incident Response, and Access Control.
+   Emphasizes clarity, enforceability, and alignment with best practices.
+
+3. [**Control Mapping Exercise**](./portfolio/Control%20Mapping%20Exercise.md)
+   A control mapping project aligning security controls from a chosen framework (e.g., NIST 800-53 or ISO 27001) to fictional business processes. Includes a detailed mapping table, gap analysis, and remediation recommendations.
+   Demonstrates control identification and audit readiness.
+
+4. [**Compliance Checklist & Simulated Audit Report**](./portfolio/Compliance%20Checklist%20%26%20Simulated%20Audit%20Report.md)
+   A sample compliance readiness checklist (e.g., SOC 2 or ISO 27001) with implementation status, evidence tracking, and control references. Includes a mock executive audit summary.
+   Highlights documentation and compliance tracking capabilities.
+
+5. [**Business Continuity Plan (BCP)**](./portfolio/Business%20Continuity%20Plan%20%28BCP%29.md)
    A fictional BCP for managing critical business functions during a cyber or operational disruption. Includes RTO/RPO definitions, recovery strategies, and communication plans.
    Showcases operational resilience and continuity planning.
-6. Privacy Impact Assessment (PIA)
-   A privacy impact assessment for a fictional system handling sensitive personal data. Documents data processing activities, associated risks, and recommended mitigations. Demonstrates privacy risk awareness and compliance alignment (GDPR/CCPA).
-7. GRC Controls Library
-   A spreadsheet-based controls repository aggregating key security controls from multiple frameworks (NIST, ISO, CIS). Categorized by control objective, implementation notes, and business process relevance. Provides a reusable reference for control mapping and audits.
-8. GRC Case Study & Incident Scenario
-   A fictional scenario inspired by real-world security events. Includes incident summary, risk implications, and policy/control updates. Designed to show industry awareness and ability to respond to evolving threats from a GRC perspective.
+
+6. [**Privacy Impact Assessment (PIA)**](./portfolio/Privacy%20Impact%20Assessment%20%28PIA%29.md)
+   A privacy impact assessment for a fictional system handling sensitive personal data. Documents data processing activities, associated risks, and recommended mitigations.
+   Demonstrates privacy risk awareness and compliance alignment (GDPR/CCPA).
+
+7. [**GRC Controls Library**](./portfolio/Controls%20Library%20Spreadsheet.md)
+   A spreadsheet-based controls repository aggregating key security controls from multiple frameworks (NIST, ISO, CIS). Categorized by control objective, implementation notes, and business process relevance.
+   Provides a reusable reference for control mapping and audits.
+
+8. [**GRC Case Study & Incident Scenario**](./portfolio/GRC%20Case%20Study%20Writeup.md)
+   A fictional scenario inspired by real-world security events. Includes incident summary, risk implications, and policy/control updates.
+   Designed to show industry awareness and the ability to respond to evolving threats from a GRC perspective.
+   
 ---
 
 ## Tools & Frameworks
