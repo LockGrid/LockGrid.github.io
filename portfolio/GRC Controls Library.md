@@ -1,0 +1,1 @@
+A curated spreadsheet of common GRC controls across frameworks (NIST, ISO, CIS), with control objectives, implementation notes, and associated business processes. Shows foundational GRC knowledge and how controls apply across domains.
