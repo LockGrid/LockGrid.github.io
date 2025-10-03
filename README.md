@@ -41,7 +41,19 @@ My goal is to contribute to secure and resilient operations through practical, b
 8. [**GRC Case Study & Incident Scenario**](./portfolio/GRC%20Case%20Study%20Writeup.md)
    A fictional scenario inspired by real-world security events. Includes incident summary, risk implications, and policy/control updates.
    Designed to show industry awareness and the ability to respond to evolving threats from a GRC perspective.
-   
+
+9. [**Third-Party Risk Assessment – Vendor Review**](./portfolio/Third-Party%20Risk%20Assessment%20–%20Vendor%20Review.md)
+   A mock third-party risk assessment of a fictional vendor. Includes vendor profile, data shared, risk ratings (inherent/residual), required controls, and treatment plan.
+   Demonstrates vendor due diligence and third-party risk management aligned with frameworks like SIG Lite and NIST SP 800-161.
+
+10. [**GRC Metrics & Dashboards**](./portfolio/GRC%20Metrics%20%26%20Dashboards.md)
+    A sample GRC performance dashboard displaying KPIs such as policy updates, control coverage, and risk status. Includes visual metrics designed for executive reporting.
+    Highlights data-driven decision-making and GRC performance monitoring.
+
+11. [**GRC Governance Overview**](./portfolio/GRC%20Governance%20Overview.md)
+    An overview of a fictional organization’s GRC structure, including roles/responsibilities (e.g., CISO, Risk Officer), governance committees, and policy lifecycle flow.
+    Demonstrates understanding of GRC program governance and strategic alignment.
+
 ---
 
 ## Tools & Frameworks
