@@ -55,7 +55,7 @@ All projects are created for educational purposes and based on public frameworks
 
 While my focus is GRC, I believe understanding technical environments improves risk decision-making. I’m currently completing the SOC Level 1 Path on TryHackMe to gain foundational knowledge in threat detection, log analysis, and security operations.
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/r0s333.png)](https://tryhackme.com/p/r0s333)
+[![TryHackMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3720994" style='border:none;'></iframe>)
 
 ---
 ## Connect with Me
