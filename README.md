@@ -63,19 +63,9 @@ While my focus is GRC, I believe understanding technical environments improves r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/rozacalloway)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rozacalloway@gmail.com)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=LockGrid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LockGrid&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LockGrid&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LockGrid&theme=tokyonight&hide_border=true)
 
 ---
 
